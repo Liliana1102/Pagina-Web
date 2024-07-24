@@ -1,0 +1,37 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1rem;
+  background-color: #000000;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 25px; /* Ajusta el tamaño según tus necesidades */
+}
+
+.nav {  
+  display: flex;
+  align-items: center;
+}
+
+.nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.social-icons a {
+  margin-left: 0.5rem;
+  font-size: 1.1rem;
+}

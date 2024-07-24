@@ -1,0 +1,62 @@
+.app-promo-section {
+    background-color: #fff; /* Fondo blanco */
+    color: #333; /* Texto oscuro */
+    padding: 2rem 0;
+    text-align: center;
+}
+  
+.promo-container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+  
+.promo-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #c9d8b6; /* Fondo verde */
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 3px solid #f05330; /* Borde naranja */
+    width: 80%; /* Ajusta según tus necesidades */
+    max-width: 800px;
+}
+  
+.promo-text-box {
+    flex: 1;
+    color: #333; /* Texto oscuro */
+    text-align: justify;
+    margin: 0 8rem;
+}
+  
+.promo-text-box h3 {
+    margin-top: 0;
+}
+
+.phone-image {
+    width: 170px; /* Ajusta según tus necesidades */
+    height: auto;
+    border-radius: 2%;
+    border: 5px solid;
+}
+  
+.promo-download {
+    text-align: center;
+    margin: 2rem 0;
+}
+  
+.download-button {
+    background-color: #f05330; /* Fondo naranja */
+    color: #fff; /* Texto blanco */
+    border: none;
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+  
+.download-button:hover {
+    background-color: #d9431f; /* Fondo naranja más oscuro */
+}
+  

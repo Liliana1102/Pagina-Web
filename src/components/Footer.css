@@ -1,0 +1,9 @@
+.footer {
+    background-color: #1c1c1c; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    text-align: center;
+    padding: 1rem 0;
+    bottom: 0;
+    width: 100%;
+}
+  
